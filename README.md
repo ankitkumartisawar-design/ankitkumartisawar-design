@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ankit Tisawar 👋
 
-<!--
-**ankitkumartisawar-design/ankitkumartisawar-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Development | Software Solutions | AI Automation | Digital Marketing
 
-Here are some ideas to get you started:
+I help businesses turn their ideas into practical digital solutions through AI-assisted development, project coordination, and technical collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Services
+- Business Websites & Landing Pages
+- WordPress & E-commerce Solutions
+- Web Applications & CRM Dashboards
+- AI Chatbots & Workflow Automation
+- API Integrations & Website Maintenance
+- SEO, Social Media & Digital Marketing
+
+### 🚀 Portfolio
+
+I'm building a collection of practical demo projects showcasing website development, CRM systems, and chatbot solutions.
+
+### 🤝 Let's Work Together
+
+Available for freelance and project-based opportunities.
+
+**Focus:** Clear requirements • Reliable delivery • Quality assurance
