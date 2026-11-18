@@ -1,23 +1,18 @@
-# Hi, I'm Ankit Tisawar 👋
+## 🚀 Featured Portfolio Projects
 
-### Web Development | Software Solutions | AI Automation | Digital Marketing
+### 1. Studio Nook — Business Website
+Responsive business website featuring service information, portfolio filtering and an enquiry interface.
 
-I help businesses turn their ideas into practical digital solutions through AI-assisted development, project coordination, and technical collaboration.
+[Live Demo](https://ankitkumartisawar-design.github.io/portfolio-business-website/) | [Source Code](https://github.com/ankitkumartisawar-design/portfolio-business-website)
 
-### 💻 Services
-- Business Websites & Landing Pages
-- WordPress & E-commerce Solutions
-- Web Applications & CRM Dashboards
-- AI Chatbots & Workflow Automation
-- API Integrations & Website Maintenance
-- SEO, Social Media & Digital Marketing
+### 2. ClientFlow — CRM Dashboard
+Interactive CRM demonstration featuring lead management, pipeline tracking, follow-ups, search and CSV export.
 
-### 🚀 Portfolio
+[Live Demo](https://ankitkumartisawar-design.github.io/portfolio-crm-dashboard/) | [Source Code](https://github.com/ankitkumartisawar-design/portfolio-crm-dashboard)
 
-I'm building a collection of practical demo projects showcasing website development, CRM systems, and chatbot solutions.
+### 3. ReplyPilot — Chatbot Demo
+Customer support chatbot prototype with FAQ responses, conversation history and lead capture. Server-side AI integration is optional and not part of the static demo.
 
-### 🤝 Let's Work Together
+[Live Demo](https://ankitkumartisawar-design.github.io/portfolio-chatbot-demo/) | [Source Code](https://github.com/ankitkumartisawar-design/portfolio-chatbot-demo)
 
-Available for freelance and project-based opportunities.
-
-**Focus:** Clear requirements • Reliable delivery • Quality assurance
+*These are self-initiated demonstration projects, not commissioned client work.*
